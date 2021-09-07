@@ -1,17 +1,8 @@
 # dualserialport
 
-
-
-{'02': "'lmalague\xf1o'", '03': "'toledo'", 'ID_hex': 'Nombre', '01': '"jujuy"', '1A': '"EPEC Dean Funes"'}
-
-
---- COM shared V.1.01 --- type Ctrl-C / BREAK to quit
---- COM2>COM1<COM3 4800,7,E,1 ---
-Could not open serial port COM2: could not open port 'COM2': WindowsError(2, 'El sistema no puede encontrar el archivo especificado.')
-
-
 Usage: 
 dsp [options] [port [baudrate]]
+Usage: 
 dsp --porta COM7 --portc COM8 --portb COM9 --timenoresp 3
 
 --- COM7>COM8<COM9 4800,7,E,1 ---
