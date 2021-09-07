@@ -62,5 +62,5 @@ NOTE: no security measures are implemented. Anyone can remotely connect to
 this service over the network.  Only one connection at once is supported. When
 the connection is terminated it waits for the next connect.
 
-D:\COMUN\NB_DELL\unidad c\varios27\serial\dist>
+
 
